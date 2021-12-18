@@ -1,1 +1,6 @@
 dont
+
+*.log 
+
+
+/dir
